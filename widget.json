@@ -1,0 +1,57 @@
+{
+ "favorite": "ビートル模型",
+ "imageBase": "",
+ "scenes": {
+  "day-pc": {
+   "dayParity": "even",
+   "from": "11:00",
+   "image": "day-pc.jpg",
+   "message": "もうちょっとで一段落つきそう",
+   "status": "テーブルでPC作業中",
+   "to": "17:00"
+  },
+  "day-reading": {
+   "dayParity": "odd",
+   "from": "11:00",
+   "image": "day-reading.jpg",
+   "message": "この絵本、つづきが気になるな",
+   "status": "ラグで絵本を読んでいる",
+   "to": "17:00"
+  },
+  "evening": {
+   "from": "17:00",
+   "image": "evening.jpg",
+   "message": "夕方の音楽、いい感じ",
+   "status": "ヘッドホンで音楽を聴いている",
+   "to": "21:00"
+  },
+  "morning": {
+   "from": "06:00",
+   "image": "morning.jpg",
+   "message": "おはよう。よく眠れたよ",
+   "status": "起きて伸びをしている",
+   "to": "11:00"
+  },
+  "night-awake": {
+   "from": "21:00",
+   "image": "night-awake.jpg",
+   "message": "寝る前に、あと少しだけ読むね",
+   "status": "ランプの灯りで読書中",
+   "to": "23:00"
+  },
+  "night-sleep": {
+   "from": "23:00",
+   "image": "night-sleep.jpg",
+   "message": "すやすや…",
+   "status": "寝ている",
+   "to": "06:00"
+  }
+ },
+ "version": "2026-11-15",
+ "weather": {
+  "latitude": 32.80589,
+  "longitude": 130.6918,
+  "name": "熊本市"
+ },
+ "webUrl": ""
+}

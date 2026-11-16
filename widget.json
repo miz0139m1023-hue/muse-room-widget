@@ -1,5 +1,5 @@
 {
- "favorite": "ビートル模型",
+ "favorite": "紅葉の小さな盆栽",
  "imageBase": "",
  "scenes": {
   "day-pc": {
@@ -47,7 +47,7 @@
    "to": "06:00"
   }
  },
- "version": "2026-11-15",
+ "version": "2026-11-16",
  "weather": {
   "latitude": 32.80589,
   "longitude": 130.6918,
